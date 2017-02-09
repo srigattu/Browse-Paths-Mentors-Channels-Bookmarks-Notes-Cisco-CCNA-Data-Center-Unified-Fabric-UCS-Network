@@ -1,1 +1,17 @@
-# Browse-Paths-Mentors-Channels-Bookmarks-Notes-Cisco-CCNA-Data-Center-Unified-Fabric-UCS-Network
+unified fabric :
+
+unified fabric charecteristics
+class of service(COS)
+data center bridging(DCB)
+
+
+unified fabric charecteristics  :::
+
+*reduced physical infrasture 
+   combining LAN/SAN roles
+    fewer ports
+*fewer points of management :
+   reduction in devices to pay attention to
+   operational overhead
+*smaller failure domains 
+   less components that can fail
